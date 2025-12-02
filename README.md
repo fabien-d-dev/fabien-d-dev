@@ -61,9 +61,9 @@
 <div align="center">
 <a href="https://github.com/fabien-d-dev">	
 	
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fabien-d-dev&theme=2077" height="140em" width="400em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fabien-d-dev&theme=2077" height="140em" width="500em" />
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabien-d-dev&theme=2077" height="200em" width="400em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabien-d-dev&theme=2077" height="200em" width="500em" />
 </div>
 
 <!-- 
