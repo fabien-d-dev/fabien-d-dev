@@ -47,14 +47,11 @@
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
   ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
-  
-  <br />
 </div>
 
 <h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/fabien-d-dev">	
-	
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fabien-d-dev&theme=2077" height="115em" width="400em" />
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabien-d-dev&theme=2077" height="200em" width="400em" />
