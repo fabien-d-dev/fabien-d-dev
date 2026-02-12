@@ -4,7 +4,7 @@
 	<h1>Hi there 👋</h1>
 
   <p>
-  I'm Fabien, a passionate web developer currently working on the Netablue project.
+  I'm Fabien, a passionate web developer currently working on the Beernotebook project.
   <br />
   Beyond my role there, I'm constantly exploring a diverse range of tools and technologies to enhance my skills and broaden my horizons.
   </p>
